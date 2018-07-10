@@ -1,0 +1,2 @@
+db.tarefas.insertMany([
+]);
